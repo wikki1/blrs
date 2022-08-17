@@ -9,7 +9,7 @@ Sets the current backlight value
 Increments the backlight by value  
 *Will fail if result is larger than 100*
 ## dec
-Decrements the backlight by value
+Decrements the backlight by value  
 *Will fail if result is less than 0*
 ## smooth
 Smoothly transitions to value in given time
